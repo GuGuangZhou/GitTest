@@ -1,5 +1,5 @@
 //
-//  GZPerson.swift
+//  Commit4.swift
 //  gitTestDemo
 //
 //  Created by didi on 01/10/2025.
@@ -7,8 +7,8 @@
 
 import UIKit
 
-class GZPerson: NSObject {
+class Commit4: NSObject {
     override init() {
-        print("GZPerson - version/1.0 - change")
+        print("Commit4")
     }
 }
