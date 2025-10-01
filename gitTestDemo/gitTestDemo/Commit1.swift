@@ -1,5 +1,5 @@
 //
-//  GZAnimation.swift
+//  Commit1.swift
 //  gitTestDemo
 //
 //  Created by didi on 01/10/2025.
@@ -7,8 +7,8 @@
 
 import UIKit
 
-class GZAnimation: NSObject {
+class Commit1: NSObject {
     override init() {
-        print("GZAnimation - code_refine_change")
+        print("Commit1")
     }
 }
