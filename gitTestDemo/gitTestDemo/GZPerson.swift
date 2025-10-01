@@ -9,6 +9,6 @@ import UIKit
 
 class GZPerson: NSObject {
     override init() {
-        print("GZPerson")
+        print("GZPerson - version/1.0 - change")
     }
 }
